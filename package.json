@@ -17,5 +17,8 @@
     "sequelize": "^6.32.0",
     "sequelize-cli": "^6.6.0",
     "winston": "^3.9.0"
+  },
+  "overrides": {
+    "semver": "^7.5.3"
   }
 }
